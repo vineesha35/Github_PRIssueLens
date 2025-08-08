@@ -1,4 +1,4 @@
-# 🔍 GitHub PR/Issue Summarizer
+# 🔍 PRIssueLens 
 
 Ever opened a GitHub pull request… only to find a scroll-fest of comments, debates, and code suggestions?
 This app is your developer sidekick — it dives into the chaos, reads everything (PRs, issues, and comments), and comes back with a crisp, human-friendly summary plus actionable next steps.
@@ -74,6 +74,7 @@ streamlit run app.py
 ```
 ## Author
  Made by Vineesha Avasarala 2025
+
 
 
 
