@@ -29,18 +29,19 @@ https://github.com/user-attachments/assets/1137e8c9-3cab-4186-828f-472d162e68f2
 
 ## 🚀 Usage
 
-- 1️⃣ **Enter API Tokens**
-GROQ API Key → Enter in the "Settings" section of the sidebar.
+*Enter API Tokens*
+ - GROQ API Key → Enter in the "Settings" section of the sidebar.
 
-GitHub Token (optional) → Generate from GitHub with repo scope and paste it in the "GitHub Token" field in the sidebar.
+ - GitHub Token (optional) → Generate from GitHub with repo scope and paste it in the "GitHub Token" field in the sidebar.
 
-2️⃣ **Input GitHub URL**
+## Input GitHub URL
 Paste the GitHub pull request or issue URL:
 
 arduino
 Copy
 Edit
 https://github.com/owner/repo/pull/123
+into the input box and press Enter.
 
 
 
