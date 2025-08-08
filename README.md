@@ -27,11 +27,20 @@ https://github.com/user-attachments/assets/1137e8c9-3cab-4186-828f-472d162e68f2
 
 ---
 
-## 🛠️ Installation
+## 🚀 Usage
 
-Clone the repository:
-```bash
-git clone https://github.com/vineesha35/Github_PRIssueLens.git
-cd Github_PRIssueLens
+- 1️⃣ **Enter API Tokens**
+GROQ API Key → Enter in the "Settings" section of the sidebar.
+
+GitHub Token (optional) → Generate from GitHub with repo scope and paste it in the "GitHub Token" field in the sidebar.
+
+2️⃣ **Input GitHub URL**
+Paste the GitHub pull request or issue URL:
+
+arduino
+Copy
+Edit
+https://github.com/owner/repo/pull/123
+
 
 
