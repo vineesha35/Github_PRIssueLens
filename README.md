@@ -1,7 +1,17 @@
 # 🔍 GitHub PR/Issue Summarizer
 
-This application summarizes GitHub pull requests (PRs) and issues — including their comments — to provide **key insights** and **actionable next steps**.  
-It uses the **GROQ API** for summarization and the **GitHub API** for data retrieval.
+Ever opened a GitHub pull request… only to find a scroll-fest of comments, debates, and code suggestions?
+This app is your developer sidekick — it dives into the chaos, reads everything (PRs, issues, and comments), and comes back with a crisp, human-friendly summary plus actionable next steps.
+
+Powered by the GROQ LLM API for lightning-fast AI summaries and the GitHub API for precise data fetching, it’s built for:
+
+🏃‍♂️ Busy maintainers who want to skip the fluff
+
+🛠️ Teams tired of “I’ll read it later” PRs
+
+📌 Anyone who wants decisions and context in seconds
+
+Just paste a PR or issue link, and the app handles the rest — from fetching metadata to condensing endless discussions into something you can actually read during a coffee break. ☕
 
 
 
@@ -56,6 +66,15 @@ Run the following command in your terminal to install the required dependencies:
 
 ```bash
 pip install streamlit requests groq python-dotenv
+```
+## Run the application
+Run the following command in your terminal to start the Streamlit application:
+```bash
+streamlit run app.py
+```
+## Author
+ Made by Vineesha Avasarala 2025
+
 
 
 
