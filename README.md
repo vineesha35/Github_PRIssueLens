@@ -35,13 +35,29 @@ https://github.com/user-attachments/assets/1137e8c9-3cab-4186-828f-472d162e68f2
  - GitHub Token (optional) → Generate from GitHub with repo scope and paste it in the "GitHub Token" field in the sidebar.
 
 ## Input GitHub URL
-Paste the GitHub pull request or issue URL:
 
-arduino
-Copy
-Edit
-https://github.com/owner/repo/pull/123
-into the input box and press Enter.
+- Paste the GitHub pull request or issue URL (e.g., `https://github.com/owner/repo/pull/123`) into the input box and press Enter.
+
+---
+
+## View Results
+
+- **Details:**
+  - Displays metadata about the PR/issue, including state, author, creation date, and labels.
+
+- **Summary:**
+  - A concise overview and actionable next steps generated using the GROQ API.
+
+---
+
+## Dependencies
+
+Run the following command in your terminal to install the required dependencies:
+
+```bash
+pip install streamlit requests groq python-dotenv
+
+
 
 
 
