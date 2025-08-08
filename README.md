@@ -5,6 +5,11 @@ It uses the **GROQ API** for summarization and the **GitHub API** for data retri
 
 
 
+
+
+https://github.com/user-attachments/assets/1137e8c9-3cab-4186-828f-472d162e68f2
+
+
 ---
 
 ## ✨ Features
@@ -28,4 +33,5 @@ Clone the repository:
 ```bash
 git clone https://github.com/vineesha35/Github_PRIssueLens.git
 cd Github_PRIssueLens
+
 
